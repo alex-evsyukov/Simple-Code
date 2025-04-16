@@ -31,8 +31,6 @@ int main()
     {
         cout << "variable i = " << i << endl;
         cout << "variable j = " << j << endl;
-    }
-    
-
+    }    
     return 0;
 }

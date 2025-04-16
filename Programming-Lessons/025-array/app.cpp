@@ -10,7 +10,7 @@ int main(void)
     arr[2] = 10;
     arr[3] = 3333;
 
-        cout << arr[3] << endl;
+    cout << arr[3] << endl;
 
     return 0;
 }

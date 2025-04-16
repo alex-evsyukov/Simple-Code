@@ -18,7 +18,7 @@ int main()
     cin >> min;
     cout << "enter max number: ";
     cin >> max;
-
+    
     if (min <= max)
     {
         do
